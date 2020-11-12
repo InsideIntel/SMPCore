@@ -1,0 +1,5 @@
+name: SMPCore
+main: me.insideintel.SMPCore
+version: 1.0
+api-version: 1.16
+commands: []
